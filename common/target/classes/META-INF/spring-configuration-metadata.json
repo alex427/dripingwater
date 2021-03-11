@@ -1,0 +1,87 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "alex.learn.spring.config.resourcess.MyPerson",
+      "sourceType": "alex.learn.spring.config.resourcess.MyPerson"
+    },
+    {
+      "name": "person",
+      "type": "alex.learn.spring.springcontext.ResourceReader",
+      "sourceType": "alex.learn.spring.springcontext.ResourceReader"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "alex.learn.spring.config.resourcess.MyPerson"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "alex.learn.spring.springcontext.ResourceReader"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "alex.learn.spring.config.resourcess.MyPerson"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "alex.learn.spring.springcontext.ResourceReader"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "alex.learn.spring.config.resourcess.MyPerson"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "alex.learn.spring.springcontext.ResourceReader"
+    },
+    {
+      "name": "person.dog",
+      "type": "alex.learn.spring.config.resourcess.Dog",
+      "sourceType": "alex.learn.spring.config.resourcess.MyPerson"
+    },
+    {
+      "name": "person.dog",
+      "type": "alex.learn.spring.config.resourcess.Dog",
+      "sourceType": "alex.learn.spring.springcontext.ResourceReader"
+    },
+    {
+      "name": "person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "alex.learn.spring.config.resourcess.MyPerson"
+    },
+    {
+      "name": "person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "alex.learn.spring.springcontext.ResourceReader"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "alex.learn.spring.config.resourcess.MyPerson"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "alex.learn.spring.springcontext.ResourceReader"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "alex.learn.spring.config.resourcess.MyPerson"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "alex.learn.spring.springcontext.ResourceReader"
+    }
+  ],
+  "hints": []
+}

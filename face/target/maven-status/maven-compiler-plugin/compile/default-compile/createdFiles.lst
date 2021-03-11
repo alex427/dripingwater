@@ -1,0 +1,6 @@
+alex\learn\webtrial\controller\WebController.class
+alex\learn\webtrial\tomcat\Client.class
+alex\learn\webtrial\servlett\MyServlet.class
+alex\learn\webtrial\tomcat\UrlBean.class
+alex\learn\webtrial\tomcat\UrlUtil.class
+alex\learn\webtrial\tomcat\TomcatTest.class

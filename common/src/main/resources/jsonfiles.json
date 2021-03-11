@@ -1,0 +1,5 @@
+[{"id":0, "name":"ada", "gender":0, "job":"hr", "city":"wuhan", "company":"gm", "salary":20000, "bonus":1000},
+  {"id":0, "name":"betty", "gender":0, "job":"hr", "city":"beijing", "company":"gz", "salary":7000, "bonus":100000},
+  {"id":0, "name":"catherine", "gender":0, "job":"art", "city":"wuhan", "company":"ZX", "salary":5000, "bonus":1000},
+  {"id":0, "name":"christin", "gender":0, "job":"html", "city":"beijing", "company":"gm", "salary":30000, "bonus":10000},
+  ]{"id":0, "name":"jusmine", "gender":0, "job":"UI", "city":"shenzhen", "company":"gf", "salary":8000, "bonus":1000}

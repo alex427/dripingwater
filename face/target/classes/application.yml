@@ -1,0 +1,4 @@
+#web settings
+#server.port: 8090
+#server.context-path: /hh
+#server.servlet-path: /ff
